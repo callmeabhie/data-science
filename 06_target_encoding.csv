@@ -1,0 +1,13 @@
+Customer_ID,City,Purchased
+1,Kochi,1
+2,Delhi,0
+3,Kochi,1
+4,Mumbai,1
+5,Delhi,0
+6,Mumbai,1
+7,Kochi,0
+8,Delhi,1
+9,Mumbai,0
+10,Kochi,1
+11,Delhi,1
+12,Mumbai,0
